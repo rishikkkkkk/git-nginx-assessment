@@ -1,3 +1,3 @@
 # Gir nginx assessment
 Rishit Kumar
-added the calculator feature
+Added the calculator feature
